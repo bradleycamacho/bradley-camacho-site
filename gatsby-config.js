@@ -6,7 +6,7 @@ module.exports = {
     description: `Bradley Camacho's personal website for random writings and projects.`,
     hero: {
       heading: `Random writing and projects`,
-      maxWidth: 652,
+      maxWidth: 700,
     },
     social: [
       {

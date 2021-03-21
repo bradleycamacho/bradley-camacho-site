@@ -1,0 +1,11 @@
+name: Bradley Camacho
+bio: |
+  Tech Writer at New Relic. Tech, literature, music, and other scattered interests. 
+avatar: ./avatars/brad.jpg
+social:
+  - url: https://twitter.com/bradleyrcamacho
+  - url: https://github.com/bradleycamacho
+  - url: https://instagram.com/bradleyrcamacho
+  - url: https://www.linkedin.com/in/bradley-camacho/
+  - url: https://github.com
+featured: true
