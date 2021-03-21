@@ -5,8 +5,8 @@ module.exports = {
     siteUrl: `https://bradleycamacho.com`,
     description: `Bradley Camacho's personal website for random writings and projects.`,
     hero: {
-      heading: `Random writing and projects`,
-      maxWidth: 652,
+      heading: `Brad's scattered writings`,
+      maxWidth: 700,
     },
     social: [
       {
@@ -23,7 +23,7 @@ module.exports = {
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/in/bradley-camacho/`,
+        url: `https://linkedin.com/in/bradley-camacho`,
       },
     ],
   },
