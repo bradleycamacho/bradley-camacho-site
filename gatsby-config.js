@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://bradleycamacho.com`,
     description: `Bradley Camacho's personal website for random writings and projects.`,
     hero: {
-      heading: `Brad's random writing and projects`,
+      heading: `Random writing and projects`,
       maxWidth: 652,
     },
     social: [
