@@ -1,33 +1,29 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `Brad's Site`,
+    name: `Brad's Site`,
+    siteUrl: `https://bradleycamacho.com`,
+    description: `Bradley Camacho's personal website for random writings and projects.`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Welcome to my site. This will host random writing and technical projects.`,
       maxWidth: 652,
     },
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/narative`,
+        url: `https://twitter.com/bradleyrcamacho`,
       },
       {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/bradleycamacho`,
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        url: `https://instagram.com/bradleyrcamacho`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
-      },
-      {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        url: `https://www.linkedin.com/in/bradley-camacho/`,
       },
     ],
   },
