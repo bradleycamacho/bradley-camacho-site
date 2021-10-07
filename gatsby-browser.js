@@ -1,4 +1,10 @@
-'use strict';
+// custom typefaces
+import "typeface-montserrat"
+import "typeface-merriweather"
+// normalize CSS across browsers
+import "./src/normalize.css"
+// custom CSS styles
+import "./src/style.css"
 
-require('./src/assets/scss/init.scss');
-require('./static/css/prismjs/theme.min.css');
+// Highlighting for code blocks
+import "prismjs/themes/prism.css"
