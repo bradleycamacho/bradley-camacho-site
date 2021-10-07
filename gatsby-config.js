@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Bradley Camacho's writing`,
+    title: `Bradley's writing`,
     author: {
       name: `Bradley Camacho`,
       summary: `a Technical Writer @ New Relic. He occasionally writes pretty decent things.`,
     },
-    description: `A writing blog for Bradley CAmacho.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `A writing blog for Bradley Camacho.`,
+    siteUrl: `https://bradleycamacho.com/`,
     social: {
       twitter: `bradleyrcamacho`,
     },
