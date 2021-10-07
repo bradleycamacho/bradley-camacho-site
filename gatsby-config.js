@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Bradley Camacho's writing`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Bradley Camacho`,
+      summary: `a Technical Writer @ New Relic. He occasionally writes pretty decent things.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A writing blog for Bradley CAmacho.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `bradleyrcamacho`,
     },
   },
   plugins: [
