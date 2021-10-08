@@ -3,7 +3,7 @@ module.exports = {
     title: `Bradley's writing`,
     author: {
       name: `Bradley Camacho`,
-      summary: `a Technical Writer @ New Relic. He occasionally writes pretty decent things.`,
+      summary: `a PDX Technical Writer @ New Relic. He occasionally writes pretty decent things.`,
     },
     description: `A writing blog for Bradley Camacho.`,
     siteUrl: `https://bradleycamacho.com/`,
